@@ -1,7 +1,8 @@
 # Unidad 0, transición a Java equipo 1
 
 ## Integrantes
-Juan Baldenegro, Trinidad Bunge, Romina Cantoni, Maximiliano López y Paulina Silveira.
+![Maximiliano López](https://img.shields.io/badge/Maximiliano_López-celeste?style=for-the-badge)
+
 
 ## Objetivo del repositorio
 - Comparar la sintaxis del lenguaje Java con la de otros lenguajes utilizados en cursos previos (C#, Python).
