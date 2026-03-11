@@ -1,7 +1,7 @@
 # Unidad 0, transición a Java equipo 1
 
 ## Integrantes
-![Maximiliano López](https://img.shields.io/badge/Maximiliano_López-celeste?style=for-the-badge)
+[![Maximiliano López](https://img.shields.io/badge/Maximiliano_López-00BFFF?style=for-the-badge)](https://github.com/maaxilopp)
 
 
 ## Objetivo del repositorio
