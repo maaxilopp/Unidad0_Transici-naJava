@@ -1,8 +1,7 @@
 # Unidad 0, transición a Java equipo 1
 
 ## Integrantes
-[![GitHub maaxilopp](https://img.shields.io/badge/GitHub-maaxilopp-00BFFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maaxilopp)
-
+Juan Baldenegro, Trinidad Bunge, Romina Cantoni, Maximiliano López y Paulina Silveira
 ## Objetivo del repositorio
 - Comparar la sintaxis del lenguaje Java con la de otros lenguajes utilizados en cursos previos (C#, Python).
 - Utilizar correctamente los tipos primitivos de datos evaluando el uso de estos dependiendo de cada caso de aplicación.
