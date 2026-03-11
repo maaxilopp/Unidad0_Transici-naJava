@@ -14,4 +14,6 @@ Juan Baldenegro, Trinidad Bunge, Romina Cantoni, Maximiliano López y Paulina Si
 - Construir programa(s) java que utilicen arrays, recorriendo los mismos para mostrar sus elementos, asignando elementos individuales a otras variables acordes, etc..
 - Programar tareas básicas de manipulación de strings en JAVA
 - Construir programas Java que permitan leer y escribir archivos de texto
+
+-primer commit
  
