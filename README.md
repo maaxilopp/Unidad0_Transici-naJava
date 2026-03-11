@@ -1,8 +1,7 @@
 # Unidad 0, transición a Java equipo 1
 
 ## Integrantes
-[![Maximiliano López](https://img.shields.io/badge/Maximiliano_López-00BFFF?style=for-the-badge)](https://github.com/maaxilopp)
-
+[![GitHub maaxilopp](https://img.shields.io/badge/GitHub-maaxilopp-00BFFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maaxilopp)
 
 ## Objetivo del repositorio
 - Comparar la sintaxis del lenguaje Java con la de otros lenguajes utilizados en cursos previos (C#, Python).
