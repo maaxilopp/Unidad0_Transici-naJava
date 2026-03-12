@@ -1,8 +1,7 @@
 # Unidad 0, transición a Java equipo 1
 
 ## Integrantes
-Juan Baldenegro, Trinidad Bunge, Romina Cantoni, Maximiliano López y Paulina Silveira.
-
+Juan Baldenegro, Trinidad Bunge, Romina Cantoni, Maximiliano López y Paulina Silveira
 ## Objetivo del repositorio
 - Comparar la sintaxis del lenguaje Java con la de otros lenguajes utilizados en cursos previos (C#, Python).
 - Utilizar correctamente los tipos primitivos de datos evaluando el uso de estos dependiendo de cada caso de aplicación.
@@ -15,5 +14,8 @@ Juan Baldenegro, Trinidad Bunge, Romina Cantoni, Maximiliano López y Paulina Si
 - Programar tareas básicas de manipulación de strings en JAVA
 - Construir programas Java que permitan leer y escribir archivos de texto
 
--primer commit
- 
+
+ ## EJERCICIO 1 (compilación y ejecución)
+
+Para compilar el programa desde la línea de comandos, ubicarse en la carpeta 'ejercicio1' y ahí corres java PruebasAtributos.java.
+
