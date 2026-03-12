@@ -1,7 +1,7 @@
-# Unidad 0, transición a Java equipo 1
+# Unidad 0 - Transición a Java 
 
-## Integrantes
-Juan Baldenegro, Trinidad Bunge, Romina Cantoni, Maximiliano López y Paulina Silveira
+## Equipo 1
+[![Maximiliano López](https://img.shields.io/badge/GitHub-Maximiliano_López-87CEEB?logo=github&logoColor=white)](https://github.com/maaxilopp)
 ## Objetivo del repositorio
 - Comparar la sintaxis del lenguaje Java con la de otros lenguajes utilizados en cursos previos (C#, Python).
 - Utilizar correctamente los tipos primitivos de datos evaluando el uso de estos dependiendo de cada caso de aplicación.
