@@ -3,7 +3,7 @@
 ## Equipo 1
 [![Maximiliano López](https://img.shields.io/badge/GitHub-Maximiliano_López-B7E3FF?logo=github&logoColor=black)](https://github.com/maaxilopp) [![Juan Baldenegro](https://img.shields.io/badge/GitHub-Juan_Baldenegro-A8E6CF?logo=github&logoColor=black)](https://github.com/juanBalde2002) [![Trinidad Bunge](https://img.shields.io/badge/GitHub-Trinidad_Bunge-FFD966?logo=github&logoColor=black)](https://github.com/trinibun) [![Paulina Silveira](https://img.shields.io/badge/GitHub-Paulina_Silveira-FFB6C1?logo=github&logoColor=black)](https://github.com/paulinasilveira)
 
-## Objetivo de la unidad
+## Objetivos de la unidad
 - Comparar la sintaxis del lenguaje Java con la de otros lenguajes utilizados en cursos previos (C#, Python).
 - Utilizar correctamente los tipos primitivos de datos evaluando el uso de estos dependiendo de cada caso de aplicación.
 - Desarrollar programas en Java empleando estructuras de control selectivas e iterativas, reconociendo qué variantes aplicar según la situación que corresponda; 
