@@ -58,7 +58,6 @@ public class Contador {
                 System.out.println("Opción no válida");
             }
           } while (elegida != 1 && elegida != 2 && elegida != 3);
-        scanner.close();
     }
 }
 
