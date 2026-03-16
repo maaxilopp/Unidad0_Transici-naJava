@@ -6,6 +6,11 @@ public class Marcapasos {
     private int latidosPorMinuto;
     private int nivelBateria;
 
+    /*byte	1 byte
+    short	2 bytes
+    char	2 bytes
+    int	4 bytes*/
+
     public static int contadorInstancias = 0; //controla can de instancias creadas
 
 
