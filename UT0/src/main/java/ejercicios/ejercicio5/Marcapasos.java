@@ -9,7 +9,7 @@ public class Marcapasos {
     /*byte	1 byte
     short	2 bytes
     char	2 bytes
-    int	4 bytes*/
+    int	    4 bytes*/
 
     public static int contadorInstancias = 0; //controla can de instancias creadas
 
@@ -20,7 +20,7 @@ public class Marcapasos {
         this.codigoFabricante=cod + "cte"; //se agrega el cte de fabrica a cada instancia
         this.latidosPorMinuto=lats;
         this.nivelBateria=100;
-        contadorInstancias++; //cada vez que se crea una isntancia se sube el valor del contador
+        contadorInstancias++; //cada vez que se crea una instancia se sube el valor del contador
     }
 
     //Tanto el id como el codigo son atributos que una vez que son definidos no tiene sentido que sean reemplzables
