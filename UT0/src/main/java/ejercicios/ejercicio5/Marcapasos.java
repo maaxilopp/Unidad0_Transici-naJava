@@ -9,7 +9,7 @@ public class Marcapasos {
     /*byte	1 byte
     short	2 bytes
     char	2 bytes
-    int	4 bytes*/
+    int	    4 bytes*/
 
     public static int contadorInstancias = 0; //controla can de instancias creadas
 
