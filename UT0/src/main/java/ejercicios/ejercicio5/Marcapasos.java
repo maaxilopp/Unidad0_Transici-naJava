@@ -50,10 +50,11 @@ public class Marcapasos {
     }
 
     //METODOS
-    public void toString(Marcapasos unMarca){
-        System.out.println("ID: " + unMarca.idDispositivo +"\n" +
-                        "Codigo: "+ unMarca.codigoFabricante + "\n" +
-        "Latidos: " + unMarca.latidosPorMinuto + "\n"
-        + "nivel de bateria: "+ unMarca.nivelBateria + "\n");
+    @Override
+    public String toString() {
+        return "ID: " + idDispositivo + "\n" +
+                "Codigo: " + codigoFabricante + "\n" +
+                "Latidos: " + latidosPorMinuto + "\n" +
+                "Nivel de bateria: " + nivelBateria + "\n";
     }
 }
