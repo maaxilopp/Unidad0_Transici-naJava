@@ -1,8 +1,7 @@
 # Unidad 0 - Transición a Java 
 
 ## Equipo 1
-[![Maximiliano López](https://img.shields.io/badge/GitHub-Maximiliano_López-B7E3FF?logo=github&logoColor=black)](https://github.com/maaxilopp) [![Juan Baldenegro](https://img.shields.io/badge/GitHub-Juan_Baldenegro-A8E6CF?logo=github&logoColor=black)](https://github.com/juanBalde2002) [![GitHub](https://img.shields.io/badge/GitHub-Trinidad%20Bunge-e6c1c7?style=for-the-badge&logo=github&logoColor=black)](https://github.com/trinibunge)
-
+[![Maximiliano López](https://img.shields.io/badge/GitHub-Maximiliano_López-B7E3FF?logo=github&logoColor=black)](https://github.com/maaxilopp) [![Juan Baldenegro](https://img.shields.io/badge/GitHub-Juan_Baldenegro-A8E6CF?logo=github&logoColor=black)](https://github.com/juanBalde2002) [![Trinidad Bunge](https://img.shields.io/badge/GitHub-Trinidad_Bunge-e6c1c7?logo=github&logoColor=black)](https://github.com/trinibunge)
 ## Objetivos de la unidad
 - Comparar la sintaxis del lenguaje Java con la de otros lenguajes utilizados en cursos previos (C#, Python).
 - Utilizar correctamente los tipos primitivos de datos evaluando el uso de estos dependiendo de cada caso de aplicación.
