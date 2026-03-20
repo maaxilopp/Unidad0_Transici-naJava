@@ -1,0 +1,13 @@
+Principalmente, utilizar enum mejora la legibilidad y mantenimiento del código.
+
+Legibilidad: ¿Porqué?
+
+Al decir TipoCaracter.VOCAL, se entiende solo lo que representa.
+Sin enum, el programa usaría números como 1, 2, 3 y asi que
+harían que con el tiempo te olvides que significada cada uno.
+
+Mantenibilidad: ¿Porqué?
+si en el futuro se necesita agregar una nueva categoría como SIMBOLO,
+solo hace falta agregarla al enum. El compilador entonces avisará
+en cada switch que no la esté manejando, evitando errores silenciosos.
+Sin enum, ese olvido pasaría desapercibido hasta que el programa falle en ejecución.
