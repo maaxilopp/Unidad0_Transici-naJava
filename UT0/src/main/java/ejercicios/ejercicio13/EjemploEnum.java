@@ -1,0 +1,52 @@
+package ejercicios.ejercicio13;
+
+public class EjemploEnum {
+    // Enum que define las 4 categorías posibles de un carácter
+    enum TipoCaracter {VOCAL, CONSONANTE, DIGITO, OTRO}
+
+    public static void main(String[] args) {
+        // Contadores, uno por cada categoría
+        int contadorVocales = 0;
+        int contadorConsonantes = 0;
+        int contadorDigitos = 0;
+        int contadorOtro = 0;
+        String test = "!Hola Mundo¡ Me llamo Maximiliano y tengo 19 años.";
+        System.out.println("Texto Original: " + test);
+
+        // Convertimos todo a minúsculas para simplificar las comparaciones
+        test = test.toLowerCase();
+
+        for (int i = 0; i < test.length(); i++) {
+            char c = test.charAt(i); // Obtenemos el carácter en la posición i
+            TipoCaracter tipo; // Variable que guarda la categoría del carácter actual
+
+            // Clasificamos el carácter según lo que es
+            if (c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u'
+                    || c == 'á' || c == 'é' || c == 'í' || c == 'ó' || c == 'ú') {
+                tipo = TipoCaracter.VOCAL;
+            } else if (Character.isLetter(c)) {
+                // Si es letra pero no vocal, es consonante
+                tipo = TipoCaracter.CONSONANTE;
+            } else if (Character.isDigit(c)) {
+                tipo = TipoCaracter.DIGITO;
+            } else {
+                // Espacios, signos de puntuación, etc.
+                tipo = TipoCaracter.OTRO;
+            }
+
+            // Según la categoría, incrementamos el contador correspondiente
+            switch (tipo) {
+                case VOCAL:       contadorVocales++;      break;
+                case CONSONANTE:  contadorConsonantes++;  break;
+                case DIGITO:      contadorDigitos++;      break;
+                case OTRO:        contadorOtro++;         break;
+            }
+        }
+
+        // Mostramos los resultados finales
+        System.out.println("Vocales: " + contadorVocales);
+        System.out.println("Consonantes: " + contadorConsonantes);
+        System.out.println("Digitos: " + contadorDigitos);
+        System.out.println("Otros: " + contadorOtro);
+    }
+}
