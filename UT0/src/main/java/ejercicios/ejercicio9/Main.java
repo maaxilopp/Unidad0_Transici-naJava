@@ -24,6 +24,6 @@ public class Main {
         ResultadoAnalisis resultado = cp.analizar("Hola mundo desde Java");
 
         System.out.println("\ntoString:");
-        System.out.println(resultado); // usa toString automáticamente
+        System.out.println(resultado);
     }
 }

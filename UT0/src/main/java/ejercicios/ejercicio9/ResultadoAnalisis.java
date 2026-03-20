@@ -11,9 +11,18 @@ public class ResultadoAnalisis {
         return cantidadPalabras;
     }
 
+    //Sobreescritura: Reemplaza el método toString() heredado de Object
     @Override
     public String toString() {
         return "Cantidad de palabras: " + cantidadPalabras;
+    }
+
+    // Sobrecarga:toString(String) con un parámetro. Mismo nombre "toString" pero diferente parámetro
+    public String toString(String formato) {
+        if (formato.equalsIgnoreCase("detallado")) {
+            return "[DETALLADO] Cantidad de palabras: " + cantidadPalabras;
+        }
+        return toString(); // Llama a la versión sin parámetros
     }
 }
 
