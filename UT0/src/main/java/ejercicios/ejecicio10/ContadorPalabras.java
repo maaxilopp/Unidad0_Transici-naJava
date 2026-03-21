@@ -93,6 +93,7 @@ public class ContadorPalabras {
                 for (int j = 0; j < a.length; j++) { //Recorremos todo a por aca elemento de a
                     if (b[i].equals(a[j])) {
                         comunes[i] = b[i];
+                        break;
                     }
                 }
             }
